@@ -5,4 +5,4 @@ Pull:
  	-Fetch:Cap nhat local repository(Database)
 	-Merge:Cap nhat trong working space
 Commit
-Puch
+Push
